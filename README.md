@@ -74,7 +74,8 @@ The app includes a web interface using **Gradio**:
 # Run the app locally
 python app.py
 
----
+```
+
 ## 🙋‍♂️ Author
 
 **👨‍💻 Karima Mahmoud**  
