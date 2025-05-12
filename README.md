@@ -73,3 +73,14 @@ The app includes a web interface using **Gradio**:
 ```bash
 # Run the app locally
 python app.py
+
+---
+## 🙋‍♂️ Author
+
+**👨‍💻 Karima Mahmoud**  
+📫 karimamahmoudsalem1@gmail.com  
+🐙 GitHub: https://github.com/karima-mahmoud
+
+
+
+
