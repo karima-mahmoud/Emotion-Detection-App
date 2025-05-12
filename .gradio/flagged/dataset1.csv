@@ -1,0 +1,2 @@
+text,output,timestamp
+i love ,"{""label"": ""joy"", ""confidences"": [{""label"": ""joy"", ""confidence"": 0.5762994289398193}, {""label"": ""love"", ""confidence"": 0.20159293711185455}, {""label"": ""sadness"", ""confidence"": 0.0997776910662651}]}",2025-05-12 23:21:42.566110
